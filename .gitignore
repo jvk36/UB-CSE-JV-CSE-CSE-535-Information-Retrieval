@@ -5,9 +5,9 @@ local.properties
 *.aar
 *.ap_
 *.aab
-*.csv
-*.pkl
-*.json
+# *.csv
+# *.pkl
+# *.json
 *.mp4
 *.png
 *.jpg
